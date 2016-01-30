@@ -1,0 +1,219 @@
+Cmp-Mod V01 Created by PcbNew   date = 1/29/2016 7:08:51 PM
+
+BeginCmp
+TimeStamp = 56A96639
+Path = /56A807CC
+Reference = MH3;
+ValeurCmp = #6;
+IdModule  = Fastener:MH_#6;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A96635
+Path = /56A80809
+Reference = MH4;
+ValeurCmp = #6;
+IdModule  = Fastener:MH_#6;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9662B
+Path = /56A80853
+Reference = MH1;
+ValeurCmp = #6;
+IdModule  = Fastener:MH_#6;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A86F3E
+Path = /56A857D1
+Reference = TB2;
+ValeurCmp = OSTTC022162;
+IdModule  = Terminal_Block:CONN_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A8617C
+Path = /56A822EC
+Reference = J2;
+ValeurCmp = PPTC131LFBN-RC;
+IdModule  = Header:HEADER_F_2.54MM_1R13P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A86196
+Path = /56A8229C
+Reference = J1;
+ValeurCmp = PPTC131LFBN-RC;
+IdModule  = Header:HEADER_F_2.54MM_1R13P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A87F22
+Path = /56A804F7
+Reference = TB3;
+ValeurCmp = OSTVN02A150;
+IdModule  = Terminal_Block:TB_100MIL_1R2P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A86E2A
+Path = /56A875B7
+Reference = TB1;
+ValeurCmp = OSTVN_1x8;
+IdModule  = Terminal_Block:TB_100MIL_1R8P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A89930
+Path = /56A87B91
+Reference = PS1;
+ValeurCmp = DealXtreme 240410;
+IdModule  = Power_Supply:AC_DC_Conv;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A96615
+Path = /56A80747
+Reference = MH2;
+ValeurCmp = #6;
+IdModule  = Fastener:MH_#6;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9956A
+Path = /56A80643
+Reference = C3;
+ValeurCmp = 100uF;
+IdModule  = Passive:CAP_F55;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A44B
+Path = /56AA0616
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Passive:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A455
+Path = /56AA02BD
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Passive:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A45F
+Path = /56A98B07
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = Passive:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A469
+Path = /56A98ED3
+Reference = C5;
+ValeurCmp = 1uF;
+IdModule  = Passive:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A48A
+Path = /56A9AC24
+Reference = LK1;
+ValeurCmp = LK_NC;
+IdModule  = Passive:SOLDER_LINK_NC;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A490
+Path = /56A9B2C9
+Reference = LK2;
+ValeurCmp = SOLDER_LINK_NO;
+IdModule  = Passive:SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A496
+Path = /56A85A50
+Reference = LK3;
+ValeurCmp = SOLDER_LINK_NO;
+IdModule  = Passive:SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A49C
+Path = /56A99F2F
+Reference = LK4;
+ValeurCmp = SOLDER_LINK_NO;
+IdModule  = Passive:SOLDER_LINK_NO;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A4AB
+Path = /56A9AC45
+Reference = Q1;
+ValeurCmp = DMP3105LVT;
+IdModule  = Active:SOT23-6_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A4B5
+Path = /56A80702
+Reference = R1;
+ValeurCmp = 100;
+IdModule  = Passive:R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A4BF
+Path = /56A86DC9
+Reference = R2;
+ValeurCmp = DNP;
+IdModule  = Passive:R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A4C9
+Path = /56A86F83
+Reference = R3;
+ValeurCmp = DNP;
+IdModule  = Passive:R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9A4D7
+Path = /56A808FB
+Reference = U1;
+ValeurCmp = CAT6219-330TDGT3;
+IdModule  = Active:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9B457
+Path = /56A9B572
+Reference = J3;
+ValeurCmp = DNP;
+IdModule  = Header:HEADER_100MIL_1R2P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 56A9B45D
+Path = /56A9B5E8
+Reference = J4;
+ValeurCmp = DNP;
+IdModule  = Header:HEADER_100MIL_1R2P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 56AC089C
+Path = /56AC0B73
+Reference = R4;
+ValeurCmp = 47k;
+IdModule  = Passive:R0603;
+EndCmp
+
+EndListe

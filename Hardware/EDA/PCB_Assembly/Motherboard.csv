@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"MH3,MH4,MH1,MH2";"MH_#6";4;"#6";;;
+2;"TB2";"CONN_2";1;"OSTTC022162";;;
+3;"J2,J1";"HEADER_F_2.54MM_1R13P_ST_AU_PTH";2;"PPTC131LFBN-RC";;;
+4;"TB3";"TB_100MIL_1R2P_PTH";1;"OSTVN02A150";;;
+5;"TB1";"TB_100MIL_1R8P_PTH";1;"OSTVN_1x8";;;
+6;"PS1";"AC_DC_Conv";1;"DealXtreme 240410";;;
+7;"C3";"CAP_F55";1;"100uF";;;
+8;"C1,C2,C5";"0603";3;"1uF";;;
+9;"C4";"0603";1;"10uF";;;
+10;"LK1";"SOLDER_LINK_NC";1;"LK_NC";;;
+11;"LK2,LK3,LK4";"SOLDER_LINK_NO";3;"SOLDER_LINK_NO";;;
+12;"Q1";"SOT23-6_SMT";1;"DMP3105LVT";;;
+13;"R1";"R0603";1;"100";;;
+14;"R2,R3";"R0603";2;"DNP";;;
+15;"U1";"SOT-23-5";1;"CAT6219-330TDGT3";;;
+16;"J3,J4";"HEADER_100MIL_1R2P_PTH";2;"DNP";;;
+17;"R4";"R0603";1;"47k";;;

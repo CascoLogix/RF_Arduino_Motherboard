@@ -1,0 +1,21 @@
+### Module positions - created on 1/29/2016 7:07:17 PM ###
+### Printed by Pcbnew version kicad 4.0.1-stable
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       1uF              0603                0.9000    -1.9700     270.0    top
+C2       1uF              0603                0.9400    -2.1100     180.0    top
+C3       100uF            CAP_F55             1.7500    -1.6750      90.0    top
+C4       10uF             0603                1.1250    -1.8750      90.0    top
+C5       1uF              0603                1.2250    -1.8750      90.0    top
+LK1      LK_NC            SOLDER_LINK_NC      1.8500    -0.5500     180.0    top
+LK2      SOLDER_LINK_NO   SOLDER_LINK_NO      0.8250    -0.7500     270.0    top
+LK3      SOLDER_LINK_NO   SOLDER_LINK_NO      0.9250    -1.8500      90.0    top
+LK4      SOLDER_LINK_NO   SOLDER_LINK_NO      0.7500    -1.8500     270.0    top
+Q1       DMP3105LVT       SOT23-6_SMT         1.6250    -1.3750     270.0    top
+R1       100              R0603               1.1750    -1.6750     180.0    top
+R2       DNP              R0603               1.2500    -2.1750     180.0    top
+R3       DNP              R0603               1.2500    -2.1000     180.0    top
+R4       47k              R0603               1.2500    -1.5000     270.0    top
+U1       CAT6219-330TDGT3 SOT-23-5            1.0250    -2.0000       0.0    top
+## End
